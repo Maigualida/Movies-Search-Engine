@@ -1,0 +1,24 @@
+{
+  "research": [
+    {
+      "key": "totoro",
+      "address": "http://www.omdbapi.com/?s=totoro&plot=full",
+      "id": 1
+    },
+    {
+      "key": "death+squad",
+      "address": "http://www.omdbapi.com/?s=death+squad&plot=full",
+      "id": 2
+    },
+    {
+      "key": "avatar",
+      "address": "http://www.omdbapi.com/?s=avatar&plot=full",
+      "id": 3
+    },
+    {
+      "key": "friends",
+      "address": "http://www.omdbapi.com/?s=friends&type=series&plot=full",
+      "id": 4
+    }
+  ]
+}
